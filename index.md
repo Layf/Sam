@@ -25,7 +25,7 @@
 [Ref_03]: svarigheter
 [Ref_04]: varfor_stadgar
 [Ref_05]: normal_stadgar
-[Ref_06]: stadgarna
+[Ref_06]: stadgar
 [Ref_07]: ansvar
 [Ref_08]: sakerstalla
 [Ref_09]: om
