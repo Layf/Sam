@@ -4,7 +4,7 @@ status: approved
 
 ---
 
-# Stadgar för Harjagers samfällighetsförening
+# Stadgar för &#187;VÅR&#171; samfällighetsförening
 
     Stagar för samfällighetsförening, bildad enligt lagen (1973:1140) om förvaltning av samfälligheter. Lagens bestämmelser om förvaltning skall gälla i den mån inte annat framgår av dess stadgar.
     Dessa stadgar har antagits vid sammanträde 1977-10-07.
